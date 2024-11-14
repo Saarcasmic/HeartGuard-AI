@@ -12,7 +12,7 @@ Heart disease prevention has become essential for public health. Data-driven sys
 - **Model Training**: Training various machine learning models.
 - **Prediction Accuracy**: Accurate predictions using advanced algorithms.
 
-The project was developed in a Jupyter Notebook, with the dataset sourced from Kaggle’s [UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci).
+The project was developed in a Jupyter Notebook using a heart disease dataset.
 
 ## Objective
 
@@ -33,7 +33,7 @@ We implemented a range of machine learning algorithms in **Python** to build the
 - **XGBoost** (Scikit-learn)
 - **Artificial Neural Network** (Keras) - Single hidden layer
 
-**Best Accuracy Achieved**: 95% (using Random Forest)
+**Best Accuracy Achieved**: 90.16% (using Random Forest)
 
 ## Project Workflow
 
@@ -44,8 +44,7 @@ We implemented a range of machine learning algorithms in **Python** to build the
 
 ## Dataset Information
 
-- **Dataset Source**: Kaggle [UCI Heart Disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
-- **Data Characteristics**: Includes multiple attributes related to patient health, such as age, cholesterol levels, blood pressure, etc.
+The dataset includes multiple attributes related to patient health, such as age, cholesterol levels, blood pressure, and more.
 
 ## Results
 
